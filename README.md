@@ -1,1 +1,1 @@
-# Mchine-Learning-Interndhip
+# Aspiration-AI-Internship
